@@ -67,7 +67,7 @@ interactive = [
     'scipy',
     'xarray',
     'zarr>=3,<4',
-    'pyarrow',.3
+    'pyarrow',
     'psutil',
     'matplotlib',
     'prettytable',
